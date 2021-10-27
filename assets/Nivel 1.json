@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Donde se encuentra el cerro de 7 colores ?",
+        "2": "Donde se encuentra el hornocal ?",
+        "3": "Cual de los departamentos no pertenece a la quebrada? ?",
+        "4": "donde se hace festeja el desentierro de mojones de 1ero de enero ?",
+        "5": "en que més del año se hace ofrendas a la tierra?"
+    },
+    {
+        "1": {
+            "a": "abrapampa",
+            "b": "Purmamarca",
+            "c": "Humahuaca",
+            "d": "Tilcara"
+        },
+        "2": {
+            "a": "abrapampa",
+            "b": "Purmamarca",
+            "c": "Humahuaca",
+            "d": "Tilcara"
+        },
+        "3": {
+            "a": "Humahuaca",
+            "b": "Tilcara",
+            "c": "Tumbaya",
+            "d": "Susques"
+        },
+        "4": {
+            "a": "Maimará",
+            "b": "Uquia",
+            "c": "Huacalera",
+            "d": "Tilcara"
+        },
+        "5": {
+            "a": "febrero",
+            "b": "diciembre",
+            "c": "marzo",
+            "d": "agosto"
+        }
+    },
+    {
+        "1": "Purmamarca",
+        "2": "Humahuaca",
+        "3": "Susques",
+        "4": "Maimará",
+        "5": "agosto"
+    }
+]
